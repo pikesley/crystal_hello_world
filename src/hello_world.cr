@@ -1,7 +1,9 @@
 require "kemal"
 
-get "/" do
-  render "src/views/hello.ecr"
+module HelloWorld
+  get "/" do
+    render "src/views/hello.ecr"
+  end
 end
 
-Kemal.run
+Kemal.run unless ENV.has_key?("environment") && ENV["environment"] == "test"
