@@ -1,0 +1,12 @@
+name: hello_world
+version: 0.1.0
+
+authors:
+  - pikesley <sam@pikesley.org>
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: sdogruyol/kemal
+    branch: master
