@@ -10,3 +10,5 @@ dependencies:
   kemal:
     github: sdogruyol/kemal
     branch: master
+
+  openssl:
