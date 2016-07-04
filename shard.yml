@@ -11,6 +11,6 @@ dependencies:
     github: sdogruyol/kemal
     branch: master
 
-  openssl:
-    github: datanoise/openssl.cr
-    branch: master
+#  openssl:
+#    github: datanoise/openssl.cr
+#    branch: master
