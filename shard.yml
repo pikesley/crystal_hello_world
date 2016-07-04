@@ -7,9 +7,9 @@ authors:
 license: MIT
 
 dependencies:
-  openssl:
-    github: datanoise/openssl.cr
-    branch: master
+#  openssl:
+#    github: datanoise/openssl.cr
+#    branch: master
 
   kemal:
     github: sdogruyol/kemal
