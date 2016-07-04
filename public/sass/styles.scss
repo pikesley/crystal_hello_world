@@ -1,1 +1,13 @@
 @import 'bootstrap';
+
+@import url(http://fonts.googleapis.com/css?family=Slabo+27px);
+
+$font-family-sans-serif: "Slabo 27px", sans-serif;
+
+body {
+  font-family: $font-family-sans-serif;
+}
+
+h1 {
+  text-align: center;
+}

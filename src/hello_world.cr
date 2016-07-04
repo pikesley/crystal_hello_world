@@ -1,5 +1,4 @@
 require "kemal"
-#require "openssl"
 
 get "/" do
   render "src/views/hello.ecr"
