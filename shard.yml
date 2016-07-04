@@ -12,3 +12,5 @@ dependencies:
     branch: master
 
   openssl:
+    github: datanoise/openssl
+    branch: master
