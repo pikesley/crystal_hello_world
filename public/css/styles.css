@@ -8798,6 +8798,6 @@ body {
 }
 
 /* line 11, ../sass/styles.scss */
-h1 {
+h1, h2 {
   text-align: center;
 }
